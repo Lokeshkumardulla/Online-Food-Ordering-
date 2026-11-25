@@ -1,29 +1,28 @@
-# Online Food Ordering
+# Online Food Ordering – FreshBite
 
-An online food-ordering platform project. The intended workflow covers browsing restaurants and menus, adding items to a cart, and placing and tracking orders.
+A starter project for an online food-ordering platform. The repository includes a FreshBite starter-project ZIP archive.
 
-## Project goals
+## Product Scope
+The project concept covers the main workflow of an online food-ordering experience:
+- Browse food or restaurant options
+- View menu items
+- Add items to a cart
+- Place an order
+- Follow order progress
 
-- Restaurant and menu browsing
-- Cart functionality
-- Order placement and order-status tracking
-- Payment integration
+These are intended product areas; check the starter archive for the functionality currently implemented.
 
-## Repository contents
+## Project Asset
+- `FreshBite_Starter_Project.zip` – starter project archive
 
-- `FreshBite_Starter_Project.zip` — starter project archive
-
-## Getting started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Lokeshkumardulla/Online-Food-Ordering-.git
-   ```
+## Getting Started
+1. Clone: `git clone https://github.com/Lokeshkumardulla/Online-Food-Ordering-.git`
 2. Extract `FreshBite_Starter_Project.zip`.
-3. Review the extracted project README or dependency files for the exact installation and run commands.
+3. Open the extracted project and follow its included setup instructions.
+4. Install the dependencies required by the extracted application before running it.
 
-> Payment processing and order tracking should be configured and tested with the relevant service credentials before production use.
+## Tech Stack
+Confirm the exact framework and dependencies from the extracted starter project before deployment.
 
 ## Author
-
-[Lokeshkumardulla](https://github.com/Lokeshkumardulla)
+**Lokesh Kumar** · [GitHub Profile](https://github.com/Lokeshkumardulla)
